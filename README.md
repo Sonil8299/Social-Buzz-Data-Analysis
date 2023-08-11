@@ -1,4 +1,4 @@
-# Social-Buzz-Data-Analysis
+# Excel-Social-Buzz-Data-Analysis
 Social Buzz is a fast growing technology unicorn that need to adapt quickly to it’s global scale. 
 Accenture has begun a three month POC based on these task :
 
